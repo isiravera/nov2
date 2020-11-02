@@ -34,19 +34,23 @@ __La provincia de Petorca tiene una superficie de 4.589 kilómetros cuadrados, s
 El río Petorca ha sufrido enormes presiones y las napas subterráneas se encuentran agotadas. Por esta razón grupos ambientalistas se han unido para defender el sector y sus habitantes de las empresas que han construido drenes de agua para mover aguas a sus plantaciones agrícolas.
 Detalles del conflicto
 *Inicio:* 2002
+
 *Sector productivo:* agropecuario
-*Derechos en juego: *
-- derecho a un medioambiente libre de contaminación
-- derecho de agua
-- derecho a la alimentación 
-- derecho al territorio y a los recursos naturales
+
+*Derechos en juego:*
+  - derecho a un medioambiente libre de contaminación
+  - derecho de agua
+  - derecho a la alimentación 
+  - derecho al territorio y a los recursos naturales
+
 *Causa del conflicto:* Uso y/o contaminación de recursos naturales
+
 *Actores involucrados:*
-- Movimiento de defensa por el acceso al agua, la Tierra y la protección del medioi ambiente [Modatima](http://modatima.cl/)
-- Coordinadora de Regantes
-- Municipalidad de Petorca
-- Dirección general de aguas [DGA]
-- Grupo difamadores
+  - Movimiento de defensa por el acceso al agua, la Tierra y la protección del medioi ambiente [Modatima](http://modatima.cl/)
+  - Coordinadora de Regantes
+  - Municipalidad de Petorca
+  - Dirección general de aguas [DGA]
+  - Grupo difamadores
 
 
 >“En el caso específico de la cuenca del río Petorca, sus aguas superficiales ya habían sido decretadas como agotadas en 1997 y en 2004 sus aguas subterráneas fueron restringidas para explotación. Posteriormente, en 2012 fue decretada como “zona de escasez hídrica”. Con esto, la DGA pretendía frenar una demanda que ya estaba excedida en casi un 35%, según el estudio realizado en 2015 denominado “Lineamientos Estratégicos para la Sustentabilidad Hídrica de la Cuenca de Petorca”. Ese estudio estimó un caudal total del río Petorca en aproximadamente 3 m3, con un aporte de 2,4 m3 del río Sobrante y 0,7 m3 del río Pedernal. En ese mismo estudio se reconoció el grave déficit hídrico y la necesidad de disminuir al menos en un 30% las áreas de cultivo destinadas a la palta, principal demandante de agua.”
