@@ -1,9 +1,32 @@
 # Conflicto socioambiental: Petorca y crisis hídrica :non-potable_water:
 :avocado: :avocado: :avocado: :avocado:
 ## Guerra del agua en Petorca: ¿Por qué solo algunos tienen agua? 
-### "No es sequía, es saqueo"
 
 ![paltas](https://www.eldesconcierto.cl/wp-content/uploads/2019/08/foto-portada-1024x683.jpg)
+
+estructura:
+1. Petorca (donde es, habitantes, produccion, contexto)
+2. Escasez hidrica
+3. Codigo de aguas
+4.Produccion de paltas (uso de agua y cant. de exportacion)
+* Graficos comparativos uso de agua
+Temas
+- [ ] 1.Petorca (donde es, habitantes, produccion, contexto)
+- [ ] 2. Escasez hidrica
+- [ ] 3. Codigo de aguas
+- [ ] 4.Produccion de paltas (uso de agua y cant. de exportacion)
+
+Tareas
+- [ ] @murimu: busqueda de información y código
+- [ ] @isiravera: edición de textos, gráficos
+- [ ] @caroaranibar: creación de gráficas e ilustraciones 
+
+---
+**NOTE**
+
+It works with almost all markdown flavours (the below blank line matters).
+
+---
 
 __La provincia de Petorca tiene una superficie de 4.589 kilómetros cuadrados, se ubica en el extremo noreste de la Región de Valparaíso y su población es de 70.610 habitantes. La principal actividad económica es la agricultura, la que se desarrolla en torno a los valles de los ríos de Petorca y La Ligua, produciendo esencialmente paltos y limones.__
 
