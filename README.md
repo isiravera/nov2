@@ -31,21 +31,21 @@ Tareas
 
 __La provincia de Petorca tiene una superficie de 4.589 kilómetros cuadrados, se ubica en el extremo noreste de la Región de Valparaíso y su población es de 70.610 habitantes. La principal actividad económica es la agricultura, la que se desarrolla en torno a los valles de los ríos de Petorca y La Ligua, produciendo esencialmente paltos y limones.__
 
-El río Petorca ha sufrido enormes presiones y las napas subterráneas se encuentran agotadas. Por esta razón grupos ambientalistas se han unido para defender el sector y sus habitantes de las empresas que han construido drenes de agua para mover aguas a sus plantaciones agrícolas.
+El río Petorca ha sufrido enormes presiones y las napas subterráneas se encuentran __agotadas.__ Por esta razón grupos ambientalistas se han unido para defender el sector y sus habitantes de las empresas que han construido drenes de agua para mover aguas a sus plantaciones agrícolas.
 Detalles del conflicto
-*Inicio:* 2002
+__*Inicio:* __2002
 
 *Sector productivo:* agropecuario
 
-*Derechos en juego:*
+__*Derechos en juego:*__
   - derecho a un medioambiente libre de contaminación
   - derecho de agua
   - derecho a la alimentación 
   - derecho al territorio y a los recursos naturales
 
-*Causa del conflicto:* Uso y/o contaminación de recursos naturales
+__*Causa del conflicto:*__ Uso y/o contaminación de recursos naturales
 
-*Actores involucrados:*
+__*Actores involucrados:*__
   - Movimiento de defensa por el acceso al agua, la Tierra y la protección del medioi ambiente [Modatima](http://modatima.cl/)
   - Coordinadora de Regantes
   - Municipalidad de Petorca
@@ -55,7 +55,7 @@ Detalles del conflicto
 
 >“En el caso específico de la cuenca del río Petorca, sus aguas superficiales ya habían sido decretadas como agotadas en 1997 y en 2004 sus aguas subterráneas fueron restringidas para explotación. Posteriormente, en 2012 fue decretada como “zona de escasez hídrica”. Con esto, la DGA pretendía frenar una demanda que ya estaba excedida en casi un 35%, según el estudio realizado en 2015 denominado “Lineamientos Estratégicos para la Sustentabilidad Hídrica de la Cuenca de Petorca”. Ese estudio estimó un caudal total del río Petorca en aproximadamente 3 m3, con un aporte de 2,4 m3 del río Sobrante y 0,7 m3 del río Pedernal. En ese mismo estudio se reconoció el grave déficit hídrico y la necesidad de disminuir al menos en un 30% las áreas de cultivo destinadas a la palta, principal demandante de agua.”
 
-2.Escasez hídrica ----------
+2.Escasez hídrica 
 [declaración zona de escasez](https://dga.mop.gob.cl/administracionrecursoshidricos/decretosZonasEscasez/Documents/DTR_81_2020_%20MOP.pdf)
 
 >“En el caso específico de la cuenca del río Petorca, sus aguas superficiales ya habían sido decretadas como agotadas en 1997 y en 2004 sus aguas subterráneas fueron restringidas para explotación. Posteriormente, en 2012 fue decretada como “zona de escasez hídrica”. 
@@ -73,7 +73,7 @@ _Uso de agua Palto:
 El palto es un árbol perenne, consume agua durante todo el año y requiere un volumen de agua que fluctúa entre 7.000 y 16.000 m3/ha/año
 
 ¿cuántos litros de agua se requieren realmente para cultivar palta?” es una pregunta abierta. Las estimaciones varían entre 1000 y 369 litros publicados por Water Footprint Network y fuentes del gremio paltero respectivamente
-De acuerdo a una investigación realizada por Roberto Castro y Marión Espinoza, “cada árbol de palta puede utilizar hasta 187,4 litros de agua al día en periodos de riego como enero, febrero y marzo.
+De acuerdo a una investigación realizada por Roberto Castro y Marión Espinoza, __*“cada árbol de palta puede utilizar hasta 187,4 litros de agua al día en periodos de riego como enero, febrero y marzo."*__
 (http://modatima.cl/2018/10/21/impacto-socio-ambiental-la-industria-paltas-la-provincia-petorca-2/)
 
 
