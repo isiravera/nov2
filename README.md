@@ -11,11 +11,6 @@
 :scream:
 :avocado:
 
+>“En el caso específico de la cuenca del río Petorca, sus aguas superficiales ya habían sido decretadas como agotadas en 1997 y en 2004 sus aguas subterráneas fueron restringidas para explotación. Posteriormente, en 2012 fue decretada como “zona de escasez hídrica”. 
 
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=yIi-KfktVCE
-" target="_blank"><img src="http://img.youtube.com/vi/yIi-KfktVCE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/yIi-KfktVCE/0.jpg)](http://www.youtube.com/watch?v=yIi-KfktVCE)
+[![VIDEO](http://img.youtube.com/vi/yIi-KfktVCE/0.jpg)](http://www.youtube.com/watch?v=yIi-KfktVCE)
