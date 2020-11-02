@@ -25,3 +25,5 @@ El palto es un árbol perenne, consume agua durante todo el año y requiere un v
 >“En el caso específico de la cuenca del río Petorca, sus aguas superficiales ya habían sido decretadas como agotadas en 1997 y en 2004 sus aguas subterráneas fueron restringidas para explotación. Posteriormente, en 2012 fue decretada como “zona de escasez hídrica”. 
 
 [![VIDEO](http://img.youtube.com/vi/yIi-KfktVCE/0.jpg)](http://www.youtube.com/watch?v=yIi-KfktVCE)
+
+![paltos](https://static.dw.com/image/17281213_303.jpg)
