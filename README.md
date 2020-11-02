@@ -5,7 +5,7 @@
 
 ![paltas](https://www.eldesconcierto.cl/wp-content/uploads/2019/08/foto-portada-1024x683.jpg)
 
-####La provincia de Petorca tiene una superficie de 4.589 kilómetros cuadrados, se ubica en el extremo noreste de la Región de Valparaíso y su población es de 70.610 habitantes. La principal actividad económica es la agricultura, la que se desarrolla en torno a los valles de los ríos de Petorca y La Ligua, produciendo esencialmente paltos y limones.
+###La provincia de Petorca tiene una superficie de 4.589 kilómetros cuadrados, se ubica en el extremo noreste de la Región de Valparaíso y su población es de 70.610 habitantes. La principal actividad económica es la agricultura, la que se desarrolla en torno a los valles de los ríos de Petorca y La Ligua, produciendo esencialmente paltos y limones.
 
 >“En el caso específico de la cuenca del río Petorca, sus aguas superficiales ya habían sido decretadas como agotadas en 1997 y en 2004 sus aguas subterráneas fueron restringidas para explotación. Posteriormente, en 2012 fue decretada como “zona de escasez hídrica”. Con esto, la DGA pretendía frenar una demanda que ya estaba excedida en casi un 35%, según el estudio realizado en 2015 denominado “Lineamientos Estratégicos para la Sustentabilidad Hídrica de la Cuenca de Petorca”. Ese estudio estimó un caudal total del río Petorca en aproximadamente 3 m3, con un aporte de 2,4 m3 del río Sobrante y 0,7 m3 del río Pedernal. En ese mismo estudio se reconoció el grave déficit hídrico y la necesidad de disminuir al menos en un 30% las áreas de cultivo destinadas a la palta, principal demandante de agua.”
 
