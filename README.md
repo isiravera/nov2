@@ -34,7 +34,7 @@ El río Petorca ha sufrido enormes presiones y las napas subterráneas se encuen
 
 Detalles del conflicto:
 
-__*Inicio:* __2002
+__*Inicio:*__ 2002
 
 __*Sector productivo:*__ agropecuario
 
@@ -79,6 +79,7 @@ De acuerdo a una investigación realizada por Roberto Castro y Marión Espinoza,
 
 
 Algunos videos del movimiento:
+
 [![VIDEO](http://img.youtube.com/vi/yIi-KfktVCE/0.jpg)](http://www.youtube.com/watch?v=yIi-KfktVCE)
 
 
