@@ -30,12 +30,13 @@ Tareas
 ## Usurpación de aguas en Petorca:
 
 __La provincia de Petorca tiene una superficie de 4.589 kilómetros cuadrados, se ubica en el extremo noreste de la Región de Valparaíso y su población es de 70.610 habitantes. La principal actividad económica es la agricultura, la que se desarrolla en torno a los valles de los ríos de Petorca y La Ligua, produciendo esencialmente paltos y limones.__
-
 El río Petorca ha sufrido enormes presiones y las napas subterráneas se encuentran __agotadas.__ Por esta razón grupos ambientalistas se han unido para defender el sector y sus habitantes de las empresas que han construido drenes de agua para mover aguas a sus plantaciones agrícolas.
-Detalles del conflicto
+
+Detalles del conflicto:
+
 __*Inicio:* __2002
 
-*Sector productivo:* agropecuario
+__*Sector productivo:*__ agropecuario
 
 __*Derechos en juego:*__
   - derecho a un medioambiente libre de contaminación
