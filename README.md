@@ -56,10 +56,16 @@ __*Actores involucrados:*__
 
 >“En el caso específico de la cuenca del río Petorca, sus aguas superficiales ya habían sido decretadas como agotadas en 1997 y en 2004 sus aguas subterráneas fueron restringidas para explotación. Posteriormente, en 2012 fue decretada como “zona de escasez hídrica”. Con esto, la DGA pretendía frenar una demanda que ya estaba excedida en casi un 35%, según el estudio realizado en 2015 denominado “Lineamientos Estratégicos para la Sustentabilidad Hídrica de la Cuenca de Petorca”. Ese estudio estimó un caudal total del río Petorca en aproximadamente 3 m3, con un aporte de 2,4 m3 del río Sobrante y 0,7 m3 del río Pedernal. En ese mismo estudio se reconoció el grave déficit hídrico y la necesidad de disminuir al menos en un 30% las áreas de cultivo destinadas a la palta, principal demandante de agua.”
 
-2.Escasez hídrica 
+2. Escasez hídrica 
 [declaración zona de escasez](https://dga.mop.gob.cl/administracionrecursoshidricos/decretosZonasEscasez/Documents/DTR_81_2020_%20MOP.pdf)
 
 >“En el caso específico de la cuenca del río Petorca, sus aguas superficiales ya habían sido decretadas como agotadas en 1997 y en 2004 sus aguas subterráneas fueron restringidas para explotación. Posteriormente, en 2012 fue decretada como “zona de escasez hídrica”. 
+
+>“[World Resource] (https://www.wri.org/blog/2015/08/ranking-world-s-most-water-stressed-countries-2040) Institute clasificó a Chile como uno de los 30 países más afectados por estrés hídrico”. 
+
+>“Otra [Investigación] (https://cl.boell.org/sites/default/files/uploads/2018/07/informe_ciren.pdf) realizada por el Centro de Estudios de Recursos Naturales (CIREN) muestra, que gran parte de las plantaciones de paltos se encuentran en suelos no aptos para el cultivo agrícola, factor que aumenta el peligro de degradación. Según un estudio de [Paola Bolados] (https://www.ciperchile.cl/2018/04/27/la-naturaleza-politica-de-la-sequia-en-petorca/), académica  de la Universidad de Valparaíso,  publicado por Ciper Chile, gran parte de los derechos de agua en la provincia se concentra en apenas cuatro familias que tienen derechos de más de 2.323,32 litros/segundo”. 
+
+
 
 3. Código de Aguas
 *En 1981, el gobierno militar de Augusto Pinochet modificó el Código de Aguas, separando la tierra del agua como dos bienes distintos y “entregó al Estado la facultad de conceder derechos de aprovechamiento de aguas a privados de forma gratuita y a perpetuidad”*
