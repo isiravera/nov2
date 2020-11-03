@@ -69,7 +69,7 @@ __*Actores involucrados:*__
 
 ![paltos](https://static.dw.com/image/17281213_303.jpg)
 
-4. Producción y uso de agua Paltas
+4. Producción y uso de agua Paltas:
 _Uso de agua Palto:
 El palto es un árbol perenne, consume agua durante todo el año y requiere un volumen de agua que fluctúa entre 7.000 y 16.000 m3/ha/año
 
